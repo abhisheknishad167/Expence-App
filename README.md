@@ -1,4 +1,4 @@
-# Expence-App
+# Expense-App
 ![one](https://github.com/abhisheknishad167/Expence-App/blob/main/Expence%20App/wwwroot/ScreenShots/Dashboard.png?raw=true)
 ![two](https://github.com/abhisheknishad167/Expence-App/blob/main/Expence%20App/wwwroot/ScreenShots/Categories.png?raw=true)
 ![three](https://github.com/abhisheknishad167/Expence-App/blob/main/Expence%20App/wwwroot/ScreenShots/Editing_Category.png?raw=true)
